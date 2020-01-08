@@ -1,0 +1,52 @@
+[
+  {
+    "moduleName": "React",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "labels": ["library", "ui", "declarative", "javascript"]
+  },
+  {
+    "moduleName": "Create React App",
+    "description": "Set up a modern web app by running one command.",
+    "labels": ["react", "zero-configuration", "build-tools"]
+  },
+  {
+    "moduleName": "Metro",
+    "description": "The JavaScript bundler for React Native.",
+    "labels": ["javascript", "bundler", "react-native"]
+  },
+  {
+    "moduleName": "Docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "labels": ["react", "javascript", "open-source", "website", "documentation"]
+  },
+  {
+    "moduleName": "React-360",
+    "description": "Create amazing 360 and VR content using React",
+    "labels": ["react", "vr", "360", "javascript", "virtual-reality"]
+  },
+  {
+    "moduleName": "React",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "labels": ["library", "ui", "declarative", "javascript"]
+  },
+  {
+    "moduleName": "Create React App",
+    "description": "Set up a modern web app by running one command.",
+    "labels": ["react", "zero-configuration", "build-tools"]
+  },
+  {
+    "moduleName": "Metro",
+    "description": "The JavaScript bundler for React Native.",
+    "labels": ["javascript", "bundler", "react-native"]
+  },
+  {
+    "moduleName": "Docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "labels": ["react", "javascript", "open-source", "website", "documentation"]
+  },
+  {
+    "moduleName": "React-360",
+    "description": "Create amazing 360 and VR content using React",
+    "labels": ["react", "vr", "360", "javascript", "virtual-reality"]
+  }
+]
